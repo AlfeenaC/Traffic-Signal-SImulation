@@ -25,15 +25,15 @@ The Traffic Signal Simulation System simulates a basic traffic signal operation 
    git clone https://github.com/your-username/traffic-signal-simulation.git
 2.Navigate to the project directory:
    ```bash
-   cd traffic-signal-simulation
+     cd traffic-signal-simulation
    ```
 3.Compile the project:
    ```bash
-   make
+     make
    ```
 4.To run the simulation:
    ```bash
-   ./traffic_signal
+     ./traffic_signal
    ```
 
 ## 🔸Output:
