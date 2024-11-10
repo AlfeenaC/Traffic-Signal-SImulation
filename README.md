@@ -10,12 +10,15 @@ The Traffic Signal Simulation System simulates a basic traffic signal operation 
 3. display - Shows the current light status for each direction.
 
 ## main Function:
-The main function provides a menu interface that allows users to access each of these functions and manage the playlist interactively.
+The main function provides a menu interface that allows users to access each of these functions.
 
 ## Installation:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/traffic-signal-simulation.git
+
+1. src/traffic_signal.c
+Your main source code with the traffic signal simulation logic.
 
 
 ## Output:
@@ -23,3 +26,5 @@ North light is Green
 East light is Yellow
 South light is Red
 West light is Red
+
+
