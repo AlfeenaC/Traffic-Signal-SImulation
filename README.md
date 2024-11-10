@@ -1,24 +1,24 @@
-# Traffic-Signal-Simulation
+# 🌟Traffic-Signal-Simulation
 
 The Traffic Signal Simulation System simulates a basic traffic signal operation in four directions: North, East, South, and West. It cycles through traffic light states (Green, Yellow, Red) in a structured manner, enabling vehicle flow control for improved safety and efficiency. The simulation is implemented in C, utilizing structured data and basic control flow to manage the signal states dynamically.
 
 
 
-## Features
+## 🔸Features
 - Four traffic lights (North, East, South, and West).
 - Green, Yellow, and Red light states.
 - Each light changes in a cyclic manner.
 - The simulation runs for four cycles, displaying the state of each light every time.
-## Functions used:
+## 🔸Functions used:
 1. initTrafficSignal() - Initializes the traffic signal, setting up the initial state.
 2. rotateSignal() - Transitions the light states to simulate traffic flow.
 3. display() - Shows the current light status for each direction.
 
-## Requirements
+## 🔸Requirements
 - C Compiler (e.g., GCC)
 - POSIX compliant system (Linux/macOS) for `sleep()` function.
 
-## Installation
+## 🔸Installation
 
 1. Clone the repository:
    ```bash
@@ -36,7 +36,7 @@ The Traffic Signal Simulation System simulates a basic traffic signal operation 
    ./traffic_signal
    ```
 
-## Output:
+## 🔸Output:
 North light is Green
 
 East light is Yellow
