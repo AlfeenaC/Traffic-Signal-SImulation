@@ -1,4 +1,4 @@
-# Traffic-Signal-SImulation
+# Traffic-Signal-Simulation
 
 INTRODUCTION
 The Traffic Signal Simulation System simulates a basic traffic signal operation in four directions: North, East, South, and West. It cycles through traffic light states (Green, Yellow, Red) in a structured manner, enabling vehicle flow control for improved safety and efficiency. The simulation is implemented in C, utilizing structured data and basic control flow to manage the signal states dynamically.
